@@ -30,6 +30,9 @@ development.
 relational-database connections. 
 3) Different Compilers which will compile code of different types of programming 
 languages.
+
+##Installation setup
+
 1. Run XAMPP.
 2. Creat a database called code_playground
 3. Import given sql file into that database (File Locaton: Code_Playground\Database)
