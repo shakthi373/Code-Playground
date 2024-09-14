@@ -31,7 +31,7 @@ relational-database connections.
 3) Different Compilers which will compile code of different types of programming 
 languages.
 
-##Installation setup
+# Installation setup
 
 1. Run XAMPP.
 2. Creat a database called code_playground
