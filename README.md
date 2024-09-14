@@ -1,6 +1,6 @@
 # Code_Playground
 Its an Academic project
-Features
+# #Features
 1. User Registration
 2. User Login
 3. Admin Login
